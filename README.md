@@ -30,6 +30,13 @@ $ virtualenv <name for virtual environment> eg:(venv)
 $ source venv/bin/activate
 ```
 
+- Now you need to install these dependencies with pip and also download and extract the webdriver for the browser you're using.
+
+```
+$ pip install selenium
+$ pip install dotenv
+```
+
 - Copy `.env.example` to `.env` and fill out your username and password in the required fields
 
 ```
