@@ -34,7 +34,7 @@ $ source venv/bin/activate
 
 ```
 $ pip install selenium
-$ pip install dotenv
+$ pip install python-dotenv
 ```
 
 - Copy `.env.example` to `.env` and fill out your username and password in the required fields
